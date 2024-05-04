@@ -1,0 +1,6 @@
+/workspace.xml
+.idea/*
+lib/__pycache__/*
+.ruff_cache/*
+__pycache__/*
+.pytest_cache
